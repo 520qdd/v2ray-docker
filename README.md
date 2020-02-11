@@ -21,3 +21,8 @@ cd v2ray-docker
 # 启动
 docker-compose up -d
 ```
+###  说明
+
+- 内置了自签的示例证书，请替换与域名匹配的证书。
+- [v2ray-docker](https://hub.docker.com/r/v2cc/poseidon) 引用于 ColetteContreras 大佬。
+- 仅适配 [v2board](https://github.com/v2board/v2board) 面板平台
